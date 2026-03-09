@@ -1,4 +1,4 @@
-# E-Commerce Data Analysis & RFM Customer Segmentation: EDA, RFM & Dashboard
+# E-Commerce Data Analysis & RFM Customer Segmentation
 
 You can view and interact with the interactive dashboard on Streamlit app via this link:
 https://thuy-ecommerce-dashboard1.streamlit.app/
