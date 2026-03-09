@@ -1,0 +1,10 @@
+.cursor/
+.cursorrules
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.DS_Store
