@@ -1,7 +1,7 @@
 # E-Commerce Data Analysis & RFM Customer Segmentation
 
 The **interactive dashboard** on Streamlit app via this link:
-https://thuy-ecommerce-dashboard1.streamlit.app/ <br>
+[View interactive dashboard](https://thuy-ecommerce-dashboard1.streamlit.app/) <br>
 *(2-page dashboard, navigate to the 2nd page on the left side of the dashboard)*
 
 This project is an end-to-end data analytics portfolio piece that demonstrates exploratory data analysis (EDA), customer segmentation using the RFM (Recency, Frequency, Monetary) framework, and the creation of an interactive business dashboard.
@@ -13,7 +13,7 @@ The goal of this project is to analyze transactionS from an online retail store,
 The project consists of three main components:
 1. **Exploratory Data Analysis (EDA):** Cleaning the data, handling missing values, and analyzing trends in revenue, geography, and product performance.
 2. **RFM Analysis:** Segmenting customers into 6 distinct groups (Champions, Loyal, Potential, At Risk, Lost, Other) based on their purchasing behavior.
-3. **Interactive Dashboard:** A Streamlit web application that allows stakeholders to view high-level business metrics and look up specific customers to see their RFM profile and tailored recommendations: https://thuy-ecommerce-dashboard1.streamlit.app/
+3. **Interactive Dashboard:** A Streamlit web application that allows stakeholders to view high-level business metrics and look up specific customers to see their RFM profile and tailored recommendations: [View interactive dashboard here](https://thuy-ecommerce-dashboard1.streamlit.app/)
 
 **Dashboard demo**
 
